@@ -12,4 +12,4 @@ Information about accessing the NHTSA Fatality Analyis Reporting System can be f
 
 US Census Bureau datasets were found here: https://www.census.gov/data/datasets.html
 
-You can view a Tableau storyboard of this analysis here: 
+You can view a Tableau storyboard of this analysis here: https://public.tableau.com/app/profile/ryan.thomas1767/viz/USAutoAccidentFatalities2017-2021/Storyboard
